@@ -1,3 +1,3 @@
 # Timekeeper-demo
-My  First Git Repo
+My  First Git Repo.
 Author - Tialk Bodhe
